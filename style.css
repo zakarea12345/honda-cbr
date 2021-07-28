@@ -1,0 +1,74 @@
+/* fonts  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+/*--------------------------
+                 common styles 
+                            ------------------------*/
+body{
+    font-family: 'Poppins', sans-serif;
+}   
+img{
+    max-width: 100%;
+}                        
+/*--------------------------------
+                     header-section-styles 
+                     --------------------------------*/
+header{
+   background-color: #264653 ;
+}
+/* menu-style */
+nav ul li{
+    margin-right: 36px;
+    font-size: 16px;
+}
+.button{
+    background-color: #E76F51;;
+}
+.header-banner-info{
+    color:#E0E0E0;
+    line-height: 24px;
+}
+/* main  */
+/* feature-bike */
+.feature-bike{
+    margin-top: 117px;
+}
+.bike-style-scale-gray{
+    filter: grayscale(100%);
+}
+/* latest-news-section */
+.latest-news-section{
+    margin-top:165px ;
+}
+.latest-news-button{
+    background-color: #E76F51;
+}
+.latest-news-button-2{
+    color: #E76F51;
+    border: 1px solid #E76F51;
+}
+/* client-feedback-section */
+.client-feedback-section{
+    margin-top: 160px;
+}
+.user-rating-icon{
+    color: #E76F51;
+    margin-bottom: 15px;
+}
+/* faq */
+.faq-section{
+    margin-top: 159px;
+}
+/* extra section 2 */
+#subscribe{
+    margin-bottom: 139px;
+}
+/* footer  */
+footer{
+    background: black;
+}
+footer a{
+    text-decoration: none;
+    color: #fff;
+}
