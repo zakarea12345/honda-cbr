@@ -23,7 +23,7 @@ nav ul li{
     font-size: 16px;
 }
 .button{
-    background-color: #E76F51;;
+    background-color: #E76F51;
 }
 .header-banner-info{
     color:#E0E0E0;
@@ -31,15 +31,8 @@ nav ul li{
 }
 /* main  */
 /* feature-bike */
-.feature-bike{
-    margin-top: 117px;
-}
 .bike-style-scale-gray{
     filter: grayscale(100%);
-}
-/* latest-news-section */
-.latest-news-section{
-    margin-top:165px ;
 }
 .latest-news-button{
     background-color: #E76F51;
@@ -49,21 +42,12 @@ nav ul li{
     border: 1px solid #E76F51;
 }
 /* client-feedback-section */
-.client-feedback-section{
-    margin-top: 160px;
-}
+
 .user-rating-icon{
     color: #E76F51;
     margin-bottom: 15px;
 }
-/* faq */
-.faq-section{
-    margin-top: 159px;
-}
-/* extra section 2 */
-#subscribe{
-    margin-bottom: 139px;
-}
+
 /* footer  */
 footer{
     background: black;
